@@ -101,7 +101,7 @@ const page = {
 };
 
 const footer = {
-  bg: '#0e2976',
+  bg: '#212121',
   fg: {
     enabled: '#c2c2c2',
     hover: '#ffffff',
@@ -135,7 +135,7 @@ const tab = {
     hover: rgba('#ed1639', 0.1),
     selected: {
       enabled: '#ed1639',
-      hover: '#c33d5c',
+      hover: '#C3102D',
     },
   },
 };
@@ -155,11 +155,11 @@ const accordion = {
     },
   },
   bg: {
-    enabled: rgba('#f9eb9a', 0),
-    hover: rgba('#f9eb9a', 0.1),
+    enabled: rgba('#F9EBD3', 0),
+    hover: rgba('#F9EBD3', 0.1),
     open: {
-      enabled: rgba('#f9eb9a', 0.5),
-      hover: rgba('#f9eb9a', 0.3),
+      enabled: rgba('#F9EBD3', 0.5),
+      hover: rgba('#F9EBD3', 0.3),
     },
   },
 };
