@@ -68,11 +68,11 @@ const card = {
   },
   front: {
     fg: '#3d3e4a',
-    bg: '#f6eb9a',
+    bg: '#F6F3EE',
   },
   back: {
     fg: '#3d3e4a',
-    bg: '#f9eb9a',
+    bg: '#F9EBD3',
   },
 };
 
@@ -85,7 +85,7 @@ const button = {
   },
   bg: {
     enabled: '#ed1639',
-    hover: '#d7244a',
+    hover: '#D72542',
     active: '#ae2037',
   },
   border: {

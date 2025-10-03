@@ -31,7 +31,7 @@ const header = {
   bgBlur: 24,
   fg: {
     enabled: '#3d3e4a',
-    hover: '#e40039',
+    hover: '#E4003A',
   },
 };
 
@@ -86,7 +86,7 @@ const button = {
   bg: {
     enabled: '#d5243a',
     hover: '#b91e31',
-    active: '#a01b2a',
+    active: '#A01527',
   },
   border: {
     enabled: rgba('#34334f', 0),
@@ -135,7 +135,7 @@ const tab = {
     hover: rgba('#d5243a', 0.1),
     selected: {
       enabled: '#d5243a',
-      hover: '#a01b2a',
+      hover: '#A01527',
     },
   },
 };

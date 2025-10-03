@@ -85,7 +85,7 @@ const button = {
   },
   bg: {
     enabled: '#e53935',
-    hover: '#c53531',
+    hover: '#C53632',
     active: '#e53935',
   },
   border: {
