@@ -101,7 +101,7 @@ const page = {
 };
 
 const footer = {
-  bg: '#0e2976',
+  bg: '#212121',
   fg: {
     enabled: '#c2c2c2',
     hover: '#ffffff',
