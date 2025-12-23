@@ -27,8 +27,8 @@ const container = {
 };
 
 const header = {
-  bg: rgba('#000000', 0.1),
-  bgBlur: 32,
+  bg: '#ba2c34',
+  bgBlur: 0,
   fg: {
     enabled: '#E4D6D7',
     hover: '#FFFFFF',
